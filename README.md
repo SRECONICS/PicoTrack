@@ -8,19 +8,6 @@
 
 **PicoTrack** is a full-stack IoT solution that provides real-time location monitoring. It consists of a hardware node (Raspberry Pi Pico W + NEO-6M GPS) that captures coordinates and transmits them via a JSON API to a cross-platform Flutter mobile application.
 
-@@ -1,16 +1,32 @@
-# geo_loc
-# PicoTrack 🛰️
-### Real-time IoT GPS Tracking System
-
-A new Flutter project.
-![Flutter](https://img.shields.io/badge/Flutter-3.0-02569B?logo=flutter)
-![Raspberry Pi](https://img.shields.io/badge/Hardware-Pico_W-C51A4A?logo=raspberry-pi)
-![Status](https://img.shields.io/badge/Status-Active-success)
-
-## Getting Started
-**PicoTrack** is a full-stack IoT solution that provides real-time location monitoring. It consists of a hardware node (Raspberry Pi Pico W + NEO-6M GPS) that captures coordinates and transmits them via a JSON API to a cross-platform Flutter mobile application.
-
 This project is a starting point for a Flutter application.
 ---
 
