@@ -38,14 +38,6 @@ samples, guidance on mobile development, and a full API reference.
 * `firmware/` - MicroPython scripts for the Raspberry Pi Pico W.
 ---
 
-### 📸 Screenshots
-| Mobile App View | Hardware Setup |
-|:---:|:---:|
-| *(Place your app screenshot here)* | *(Place your hardware photo here)* |
-| *Real-time tracking interface* | *Pico W wired to NEO-6M* |
-
----
-
 ### 🔌 Hardware Setup
 The backend runs on a **Raspberry Pi Pico W**. Below is the wiring configuration for the **NEO-6M GPS Module**.
 
