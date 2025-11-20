@@ -21,8 +21,8 @@ uart = UART(0, baudrate=9600, tx=Pin(0), rx=Pin(1))
 
 # (Your global gps_data dictionary goes here)
 gps_data = {
-    "lat": 10.8505,
-    "lng": 76.2711,
+    "lat": 0.000,
+    "lng": 0.000,             #add a default location here
     "status": "No Lock"
 }
 
