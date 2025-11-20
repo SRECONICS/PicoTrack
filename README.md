@@ -15,9 +15,8 @@
 
 This project is a starting point for a Flutter application.
 ---
----
 
-For help getting started with Flutter development, view the
+For Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ### 🔋 Features
@@ -36,20 +35,6 @@ samples, guidance on mobile development, and a full API reference.
 ### 📂 Project Structure
 * `lib/` - Main Flutter application source code.
 * `firmware/` - MicroPython scripts for the Raspberry Pi Pico W.
----
-
-### 🔌 Hardware Setup
-The backend runs on a **Raspberry Pi Pico W**. Below is the wiring configuration for the **NEO-6M GPS Module**.
-
-| GPS Module Pin | Pico W Pin | Function |
-| :--- | :--- | :--- |
-| **VCC** | VBUS (5V) | Power |
-| **GND** | GND | Ground |
-| **TX** | GP1 (UART0 RX) | Data Transmit |
-| **RX** | GP0 (UART0 TX) | Data Receive |
-
-> **Note:** The GPS module communicates via UART at a baudrate of `9600`.
-
 ---
 
 ### 📡 API Reference
